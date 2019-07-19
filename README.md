@@ -21,7 +21,7 @@ Note 2: Bear in mind that the smoothness of the travelling will depend on variou
 
 Note 3: While navigating through the map the robot can avoid obstacles.  
 
-Comments
+### Comments
 1.	Getting a good map is one of the most important things that will make the robot to travel smoothly. When making the map look for non-existing edges and for wrong walls or obstacles. Create maps until one is good enough for navigation.
 2.	Getting the right coordinates of all points is also very important. Try to navigate through them before running the main app. The navigation does not consider the angles the robot is facing so the robot will be facing random positions every time you navigate to a point.
 3.	I had to decrease the security distances to navigate better 
