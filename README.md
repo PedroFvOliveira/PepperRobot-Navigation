@@ -22,9 +22,9 @@ Note 2: Bear in mind that the smoothness of the travelling will depend on variou
 Note 3: While navigating through the map the robot can avoid obstacles.  
 
 Comments
-1-	Getting a good map is one of the most important things that will make the robot to travel smoothly. When making the map look for non-existing edges and for wrong walls or obstacles. Create maps until one is good enough for navigation.
-2-	Getting the right coordinates of all points is also very important. Try to navigate through them before running the main app. The navigation does not consider the angles the robot is facing so the robot will be facing random positions every time you navigate to a point.
-3-	I had to decrease the security distances to navigate better 
-4-	The robot can avoid obstacles when navigating but make sure he can pass considering the security distances. If not, he will stop and it wont work. 
-5-	In tight spaces the edges of the wall will make him move side by side to avoid the “invisible walls” that he mapped. 
-6-	The app works better with low light conditions. Sometimes reflections or sunlight can affect navigation and exploration, putting “walls” where they don’t exist.
+1.	Getting a good map is one of the most important things that will make the robot to travel smoothly. When making the map look for non-existing edges and for wrong walls or obstacles. Create maps until one is good enough for navigation.
+2.	Getting the right coordinates of all points is also very important. Try to navigate through them before running the main app. The navigation does not consider the angles the robot is facing so the robot will be facing random positions every time you navigate to a point.
+3.	I had to decrease the security distances to navigate better 
+4.	The robot can avoid obstacles when navigating but make sure he can pass considering the security distances. If not, he will stop and it wont work. 
+5.	In tight spaces the edges of the wall will make him move side by side to avoid the “invisible walls” that he mapped. 
+6.	The app works better with low light conditions. Sometimes reflections or sunlight can affect navigation and exploration, putting “walls” where they don’t exist.
